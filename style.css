@@ -1,0 +1,30 @@
+body {
+    background-color: gray;
+}
+
+h1 {
+    background-color:darkslateblue;
+}
+
+h2 {
+    background-color: darkslateblue;
+}
+
+p {
+    background-color: darkslateblue;
+
+}
+
+div {
+    border-style: solid;
+    border-color: darkslateblue;
+}
+
+h3 {
+    background-color: darkslateblue;
+}
+
+div {
+    border-style: solid;
+    border-color: darkslateblue
+    }
